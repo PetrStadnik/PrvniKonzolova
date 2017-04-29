@@ -32,7 +32,7 @@ namespace aplikace_1
           
 
 
-
+//tu něco je
 
            
             if (programek == 1)
